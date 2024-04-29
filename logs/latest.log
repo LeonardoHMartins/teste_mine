@@ -1,0 +1,33 @@
+[20:24:06] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[20:24:07] [ServerMain/INFO]: No existing world data, creating new world
+[20:24:07] [ServerMain/INFO]: Loaded 1175 recipes
+[20:24:07] [ServerMain/INFO]: Loaded 1276 advancements
+[20:24:08] [Server thread/INFO]: Starting minecraft server version 1.20.6
+[20:24:08] [Server thread/INFO]: Loading properties
+[20:24:08] [Server thread/INFO]: Default game type: SURVIVAL
+[20:24:08] [Server thread/INFO]: Generating keypair
+[20:24:09] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:24:09] [Server thread/INFO]: Using default channel type
+[20:24:09] [Server thread/INFO]: Preparing level "world"
+[20:24:10] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:24:10] [Worker-Main-9/INFO]: Preparing spawn area: 2%
+[20:24:11] [Worker-Main-1/INFO]: Preparing spawn area: 10%
+[20:24:11] [Worker-Main-9/INFO]: Preparing spawn area: 36%
+[20:24:12] [Worker-Main-1/INFO]: Preparing spawn area: 69%
+[20:24:12] [Server thread/INFO]: Time elapsed: 1626 ms
+[20:24:12] [Server thread/INFO]: Done (3.292s)! For help, type "help"
+[20:24:26] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[20:24:26] [Server thread/INFO]: exit<--[HERE]
+[20:24:28] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[20:24:28] [Server thread/INFO]: exit<--[HERE]
+[20:24:29] [Server thread/INFO]: Stopping the server
+[20:24:29] [Server thread/INFO]: Stopping server
+[20:24:29] [Server thread/INFO]: Saving players
+[20:24:29] [Server thread/INFO]: Saving worlds
+[20:24:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20:24:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[20:24:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[20:24:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:24:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:24:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:24:30] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
